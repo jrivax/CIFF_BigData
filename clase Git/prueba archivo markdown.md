@@ -4,5 +4,6 @@ Hola
 
 <script>
 function(){
-	console.log(saludo);
+	console.log("saludo");
 }
+</script>
